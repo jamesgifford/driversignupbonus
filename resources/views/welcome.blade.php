@@ -92,16 +92,24 @@
                     <h2 class="section-title font-alt align-left mb-70 mb-sm-40">
                         Drive With Uber
                     </h2>
-                    
+
                     <div class="section-text mb-50 mb-sm-20">
                         <div class="row">
                         
-                            <div class="col-md-12">
+                            <div class="col-md-4">
                                 <blockquote>
                                     <p>
-                                    <a href="https://partners.uber.com/drive?invite_code=mreyj">Sign Up</a>
+                                    Uber is offering new drivers a bonus of up to $250 to get started. Sign up today!
                                     </p>
                                 </blockquote>
+                            </div>
+                            
+                            <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30" style="text-align:center;">
+                                <a href="https://partners.uber.com/drive?invite_code=mreyj" class="btn btn-mod btn-b btn-medium btn-round" style="margin-top:15%;">Sign Up</a>
+                            </div>
+                            
+                            <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
+                                <a href="https://partners.uber.com/drive?invite_code=mreyj"><img src="images/logo_uber.png" /></a>
                             </div>
                             
                         </div>
@@ -124,16 +132,24 @@
                     <h2 class="section-title font-alt align-left mb-70 mb-sm-40">
                         Drive With Lyft
                     </h2>
-                    
+
                     <div class="section-text mb-50 mb-sm-20">
                         <div class="row">
                         
-                            <div class="col-md-12">
+                            <div class="col-md-4">
                                 <blockquote>
                                     <p>
-                                    <a href="https://www.lyft.com/drivers/JESSE157926">Sign Up</a>
+                                    Make a bonus of up to $500 driving with Lyft. Get started today!
                                     </p>
                                 </blockquote>
+                            </div>
+                            
+                            <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30" style="text-align:center;">
+                                <a href="https://www.lyft.com/drivers/JESSE157926" class="btn btn-mod btn-b btn-medium btn-round" style="margin-top:15%;">Sign Up</a>
+                            </div>
+                            
+                            <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
+                                <a href="https://www.lyft.com/drivers/JESSE157926"><img src="images/logo_lyft.png" /></a>
                             </div>
                             
                         </div>
