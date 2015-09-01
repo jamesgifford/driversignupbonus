@@ -23,6 +23,7 @@
         <link rel="stylesheet" href="css/vertical-rhythm.min.css">
         <link rel="stylesheet" href="css/owl.carousel.css">
         <link rel="stylesheet" href="css/magnific-popup.css">  
+        <link rel="stylesheet" href="css/custom.css">
         
     </head>
 
@@ -58,8 +59,9 @@
                             
                             <h2 class="hs-line-14 font-alt mb-50 mb-xs-30">
                                 <span class="text-rotate">
-                                    Drive with Uber,
-                                    Drive with Lyft
+                                    Earn a bonus of up to $500,
+                                    Make up to $40/hr,
+                                    Drive on your own schedule
                                 </span>
                             </h2>
                             
@@ -75,7 +77,7 @@
                     
                     <!-- Scroll Down -->
                     <div class="local-scroll">
-                        <a href="#about" class="scroll-down"><i class="fa fa-angle-down scroll-down-icon"></i></a>
+                        <a href="#uber" class="scroll-down"><i class="fa fa-angle-down scroll-down-icon"></i></a>
                     </div>
                     <!-- End Scroll Down -->
                     
@@ -97,7 +99,7 @@
                             <div class="col-md-12">
                                 <blockquote>
                                     <p>
-                                    Drive With Uber
+                                    <a href="https://partners.uber.com/drive?invite_code=mreyj">Sign Up</a>
                                     </p>
                                 </blockquote>
                             </div>
@@ -129,7 +131,7 @@
                             <div class="col-md-12">
                                 <blockquote>
                                     <p>
-                                    Drive With Lyft
+                                    <a href="https://www.lyft.com/drivers/JESSE157926">Sign Up</a>
                                     </p>
                                 </blockquote>
                             </div>
